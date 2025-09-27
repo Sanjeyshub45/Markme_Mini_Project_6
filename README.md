@@ -10,11 +10,11 @@ Add your class, mark attendance, and export professional reports in just a few c
 
 ##  Features
 
-✅ **Simple Class Management** – Easily create, edit, and delete your class lists.
-✅ **One-Click Attendance** – Mark students as **Present, Absent, or On-Duty (OD)** instantly.
-✅ **Instant PDF Reports** – Download clean, professional PDF reports of absentees & ODs with date included.
-✅ **Fast & Privacy-Focused** – All data stays securely in your browser (no sign-up, no cloud).
-✅ **Responsive UI** – Works smoothly on desktop and mobile.
+ **Simple Class Management** – Easily create, edit, and delete your class lists.
+ **One-Click Attendance** – Mark students as **Present, Absent, or On-Duty (OD)** instantly.
+ **Instant PDF Reports** – Download clean, professional PDF reports of absentees & ODs with date included.
+ **Fast & Privacy-Focused** – All data stays securely in your browser (no sign-up, no cloud).
+ **Responsive UI** – Works smoothly on desktop and mobile.
 
 ---
 
@@ -35,15 +35,15 @@ Add your class, mark attendance, and export professional reports in just a few c
 
 ---
 
-##  Get Started in 3 Easy Steps
+## Get Started in 3 Easy Steps
 
-1️⃣ **Create Your Class** → Add student names & roll numbers.
-2️⃣ **Take Attendance** → Navigate to *Your Class* and mark attendance.
-3️⃣ **Download Report** → Click *Download Report* to get a dated PDF of absentees & ODs.
+1️. **Create Your Class** → Add student names & roll numbers.
+2️. **Take Attendance** → Navigate to *Your Class* and mark attendance.
+3️. **Download Report** → Click *Download Report* to get a dated PDF of absentees & ODs.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Frontend**: HTML, CSS, JavaScript
 * **PDF Generation**: [jsPDF](https://github.com/parallax/jsPDF)
@@ -51,7 +51,7 @@ Add your class, mark attendance, and export professional reports in just a few c
 
 ---
 
-## ❓ FAQ
+##  FAQ
 
 **Q. Where is my class & attendance data saved?**
 
@@ -71,7 +71,7 @@ Add your class, mark attendance, and export professional reports in just a few c
 
 ---
 
-## ⚖️ License
+## ⚖️License
 
 This project is created for educational  purposes.
 © 2025 Fnext. All rights reserved.
