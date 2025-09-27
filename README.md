@@ -1,6 +1,10 @@
 # Markme_Mini_Project_6
 This is the repository that explain about my project Markme powered by Fnext.
 
+# Live Link:
+
+Click Here: https://markmeonline.netlify.app/
+
 # MarkMe – Effortless Attendance
 
 **MarkMe** is a simple, modern, and privacy-focused tool to manage classroom attendance.
