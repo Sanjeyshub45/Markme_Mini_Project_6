@@ -1,4 +1,5 @@
-# Markme_Mini_Project_6
+![screenshot](https://raw.githubusercontent.com/Project-Markme/Markme_UI_Images/MarkmeBanner.jpg)
+# Project Markme
 This is the repository that explain about my project Markme powered by Fnext.
 
 # Live Link:
