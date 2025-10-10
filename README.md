@@ -1,4 +1,4 @@
-![screenshot](https://raw.githubusercontent.com/Project-Markme/Markme_UI_Images/MarkmeBanner.jpg)
+![screenshot](https://github.com/Sanjeyshub45/Project-Markme/blob/main/Markme_UI_Images/MarkmeBanner.jpg)
 # Project Markme
 This is the repository that explain about my project Markme powered by Fnext.
 
